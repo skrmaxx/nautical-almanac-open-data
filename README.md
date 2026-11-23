@@ -4,7 +4,7 @@ This repository holds data the Nautical Almanac Android app uses whose licences 
 
 | Folder | What | Licence |
 |---|---|---|
-| [`sea-lanes/`](sea-lanes/) | The sea-lane network of the Port to port tool, derived from Eurostat's MARNET | EUPL-1.2 |
+| [`sea-lanes/`](sea-lanes/) | The sea-lane network of the Port to port tool, derived from Eurostat's MARNET, with layers from AIS ship traffic (World Bank / IMF, CC BY 4.0) | EUPL-1.2 |
 
 Each folder has its own README, saying where the data comes from, what was changed and how to rebuild it.
 
